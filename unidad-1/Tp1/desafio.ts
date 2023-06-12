@@ -10,3 +10,4 @@ Puedes utilizar cualquier librería de generación de contraseñas aleatorias qu
 Asegúrate de que la aplicación sea fácil de usar y proporcione instrucciones claras al usuario.
 Puedes incluir características adicionales en tu aplicación, 
 como permitir al usuario especificar el conjunto de caracteres permitidos en la contraseña. */
+// link de la solución del desafio https://github.com/Cpietro87/generatePass
