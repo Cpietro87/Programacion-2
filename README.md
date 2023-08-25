@@ -30,13 +30,13 @@ METODOS:
 - <span style="color: #03d7fc">TEORICO</span>
 - <span style="color: #fc7b03">TEORICO / PRACTICO</span>
 
-|CLASE   | Metodo                                                 | Contenido                                    |
+|CLASE             | Metodo                                                 | Contenido                                    |
 | ---------------  | ------------------------------------------------------ | -------------------------------------------- |
 | **02/06/2023**   | <span style="color: #03d7fc">TEORICO</span>            | Conceptos básicos TypeScript, Git y GitHub   |
 | **09/06/2023**   | <span style="color: #94fc03">PRACTICO</span>           | Inicilizar Proyecto con NodeJs               |
 | **09/06/2023**   | <span style="color: #94fc03">PRACTICO</span>           | Creación de `package.json`                   |
 | **09/06/2023**   | <span style="color: #94fc03">PRACTICO</span>           | Inicializar proyecto en git                  |
-| **09/06/2023**   | <span style="color: #94fc03">PRACTICO</span>           | Levantando un servidor a traves de una clase |
-| **Ruteo**        | <span style="color: #94fc03">PRACTICO</span>           | Generando mi primera ruta                    |
-| **Ruteo**        | <span style="color: #94fc03">PRACTICO</span>           | Ejecutando lo realizado en Postman           |
+| **16/06/2023**   | <span style="color: #94fc03">PRACTICO</span>           | Levantando un servidor a traves de una clase |
+| **16/06/2023**   | <span style="color: #94fc03">PRACTICO</span>           | Generando mi primera ruta                    |
+| **16/06/2023**   | <span style="color: #94fc03">PRACTICO</span>           | Ejecutando lo realizado en Postman           |
 

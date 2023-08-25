@@ -1,14 +1,15 @@
 class Auto {
     // atributo
-    _marca
+    marca: string;
     constructor(marca) {
-        this._marca = marca;
+        this.marca = marca;
     }
     // metodo
     arrancar() {
-        return `Arrancando auto ${this._marca}`;
+        return `Arrancando auto ${this.marca}`;
     }
 };
 
 const a1 = new Auto("Peugeot");
+
 console.info(a1.arrancar());
